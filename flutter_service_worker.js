@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a21dcbf29f21befdad816c9b049c9cf3",
+  "assets/AssetManifest.json": "929baaf159f2612a999bdc5952dab040",
 "assets/assets/fonts/Roboto-Italic.ttf": "cebd892d1acfcc455f5e52d4104f2719",
 "assets/assets/fonts/Roboto-Light.ttf": "881e150ab929e26d1f812c4342c15a7c",
 "assets/assets/fonts/Roboto-Regular.ttf": "8a36205bd9b83e03af0591a004bc97f4",
@@ -65,9 +65,11 @@ const RESOURCES = {
 "assets/assets/icons/vietnam.png": "1c6c27ad9a6c0ce36f52d01559912cef",
 "assets/assets/icons/zalopay.svg": "077d2366dbb06f5f4650b36360e09cab",
 "assets/assets/images/background_login.jpg": "107a565950c76657f18c0983012ea19d",
+"assets/assets/images/checked.png": "da188ccb78f1017e9645542bb5e52d6b",
 "assets/assets/images/doctor1.png": "4d3b7439cea54d54f35ef4cdb23c0029",
 "assets/assets/images/doctor2.png": "25b0462fd6f00e4c737b929f5f5db2f0",
 "assets/assets/images/doctor3.png": "e0cb0dc3861b10699c2354da3661cfbe",
+"assets/assets/images/error.png": "ff5b1b3b5e8a116ab26a949c8c994eb2",
 "assets/assets/images/fake_avatar.jpg": "926f5128de1de0038ecddd997103a3a4",
 "assets/assets/images/google.png": "f564fc3bc613d9922753b6c17f447415",
 "assets/assets/images/login_background.jpg": "6ed916bd29ea4f8becbc9e735385132a",
@@ -75,7 +77,7 @@ const RESOURCES = {
 "assets/assets/pdf/flutter-succinctly.pdf": "689dd396962fa32bc7915dc37b3dfc86",
 "assets/FontManifest.json": "d810132bf6d8d2a44674fdf402885c5d",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "dd9a08614243e62acd161f0853857763",
+"assets/NOTICES": "1dd2d1d44f4b90020479adccf1b64fe8",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_vector_icons/fonts/AntDesign.ttf": "3a2ba31570920eeb9b1d217cabe58315",
 "assets/packages/flutter_vector_icons/fonts/Entypo.ttf": "31b5ffea3daddc69dd01a1f3d6cf63c5",
@@ -104,9 +106,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "ac6fedb883d2210a32aeda037b0d7694",
-"/": "ac6fedb883d2210a32aeda037b0d7694",
-"main.dart.js": "0d9dccec246c4b22a9bd3cb3ac4deb05",
+"index.html": "0ae9270452bdb1b0e408401f62e6a1b3",
+"/": "0ae9270452bdb1b0e408401f62e6a1b3",
+"main.dart.js": "6aa640884844edf7cc62a0c709e0a6d4",
 "manifest.json": "7aa6e3ef3bd649010bc87e00e991ca0c",
 "version.json": "ead1b9b439fe8b243b124c5987a8c791"
 };
