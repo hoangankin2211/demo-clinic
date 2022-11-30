@@ -46548,7 +46548,7 @@ A.amz.prototype={
 $0(){},
 $S:0}
 A.PS.prototype={
-v(a){return new A.BA("/splash_screen","Clinic Management",A.aF9(B.IH,null,"Roboto",B.x,B.a1E,null),!1,B.Bg,$.aP1(),null)}}
+v(a){return new A.BA("/dashboard_screen","Clinic Management",A.aF9(B.IH,null,"Roboto",B.x,B.a1E,null),!1,B.Bg,$.aP1(),null)}}
 A.a7B.prototype={
 fS(){var s=this,r=new A.eK(t.dl)
 r.m(0,"email",s.a)
